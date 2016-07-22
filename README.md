@@ -12,5 +12,9 @@
   - http://blog.naver.com/5000sky/220373183112
 
 
+### 쇼핑 목록
+- [AA 배터리 슬롯에 들어가는 아두이노](http://www.itworld.co.kr/news/98908)
+
+
 ### 참고 사이트
 - 아두이노 프로젝트: https://www.hackster.io/arduino/projects
