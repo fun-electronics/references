@@ -13,6 +13,7 @@
 
 
 ### 쇼핑 목록
+- 카테고리 잘 나뉘어져 있는 쇼핑몰: http://icfactory.co.kr/
 - [AA 배터리 슬롯에 들어가는 아두이노](http://www.itworld.co.kr/news/98908)
 
 
